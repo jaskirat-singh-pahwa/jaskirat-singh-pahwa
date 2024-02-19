@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋, I am Jaskirat Singh
 
-<!--
-**jaskirat-singh-pahwa/jaskirat-singh-pahwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- I am a passionate Data Analytics Engineer and a NLP enthusiast
+- 4.5 years of experience in the software industry, crafting cutting-edge big data solutions.
+- I am constantly motivated by the potential to create value from data.
+- In my free time, I love to play different sports like Badminton, Cricket, and Football.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages and Databases:**  Python, MySQL, PostgreSQL, MongoDB, Scala, R, Bash 
+- **Big Data:** Apache Spark, Hadoop, Airflow, SQL, Superset, Tableau, Snowflake, Kafka, ETL, DBT
+- **Cloud Platform:**
+ - **AWS:** Glue, Step Functions, Lambdas, S3, Athena, Sagemaker, EC2, EMR, SNS, SQS, Redshift, Cloudwatch, IAM
+- **Libraries:** PySpark, Boto3, Sklearn, Pandas, NumPy, Deequ, Great Expectations, Matplotlib, Keras, NLTK, Gensim, PyTorch
+- **Other tools:** CI/CD, Docker, Terraform, IaC, Agile, Git, GitHub, GitLab, Jupyter Notebook, Linux
+- **Competent in*** Data Analysis, Data Engineering, Databases, Data Modelling, Data Visualization, and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Education
+- Master of Science in Data Science - University at Buffalo -- SUNY
+  - GPA - 3.87 / 4.0
+
+- Bachelor of Technology in Computer Science - Guru Gobind Singh Indraprastha University
+  - CGPA - 8.4 / 10.0
+
+
+## Contact
+- Email: jaskirat0810@gmail.com | jaskira2@buffalo.edu 
+- LinkedIn: https://www.linkedin.com/in/jaskirat-singh-pahwa/
+
