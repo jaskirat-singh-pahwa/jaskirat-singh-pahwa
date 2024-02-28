@@ -18,6 +18,8 @@
 
 [![Jaskirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaskirat-singh-pahwa)](https://github.com/jaskirat-singh-pahwa/github-readme-stats)
 
+![Profile View Count](https://komarev.com/ghpvc/?username=jaskirat-singh-pahwa&color=orange)
+
 
 
 ## Education
