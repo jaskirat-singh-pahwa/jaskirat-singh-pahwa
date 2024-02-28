@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Jaskirat Singh
 
 ## About me
-- I am a passionate Data Analytics Engineer and a NLP enthusiast
+- I am a passionate AWS Data Analytics Engineer and a NLP enthusiast
 - 4.5 years of experience in the software industry, crafting cutting-edge big data solutions.
 - I am constantly motivated by the potential to create value from data.
 - In my free time, I love to play different sports like Badminton, Cricket, and Football.
