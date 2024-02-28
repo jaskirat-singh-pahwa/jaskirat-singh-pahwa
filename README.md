@@ -16,6 +16,10 @@
 - **Competent in*** Data Analysis, Data Engineering, Databases, Data Modelling, Data Visualization, and Machine Learning
 
 
+[![Jaskirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaskirat-singh-pahwa)](https://github.com/jaskirat-singh-pahwa/github-readme-stats)
+
+
+
 ## Education
 - Master of Science in Data Science - University at Buffalo -- SUNY
   - GPA - 3.87 / 4.0
