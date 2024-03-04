@@ -6,13 +6,13 @@
 [<img src = "https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/profile/jaskirat.singh.pahwa#!/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jaskiratsinghpahwa/)
 
-<img align="right" alt="GIF" src="giphy.gif" width="350"/>
+<img align="right" alt="GIF" src="giphy.gif" width="337"/>
 
 ## About me
-- I am a passionate AWS Data Analytics Engineer and a NLP enthusiast
-- 4.5 years of experience in the software industry, crafting cutting-edge big data solutions.
-- I am constantly motivated by the potential to create value from data.
-- In my free time, I love to play different sports like Badminton, Cricket, and Football.
+- I am currently pursuing an M.S. in Data Science degree from University at Buffalo--SUNY
+- I have 4.5 years of experience in the software industry, specializing in big data solutions
+- I am constantly motivated by the potential to create value from data
+- In my free time, I love to play different sports like Badminton, Cricket, and Football
 
 ## Skills
 - **Programming Languages and Databases:**  Python, MySQL, PostgreSQL, MongoDB, Scala, R, Bash 
@@ -25,6 +25,7 @@
 
 
 [![Jaskirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaskirat-singh-pahwa)](https://github.com/jaskirat-singh-pahwa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaskirat-singh-pahwa&layout=donut)](https://github.com/jaskirat-singh-pahwa/github-readme-stats)
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=jaskirat-singh-pahwa&color=orange)
 
