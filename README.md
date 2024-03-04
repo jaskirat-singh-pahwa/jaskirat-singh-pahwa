@@ -1,5 +1,4 @@
-<!--![Header](./GitHub_background.png)-->
-<img src="./" alt="Image" width="600">
+![Header](./)
 
 ## About me
 - I am a passionate AWS Data Analytics Engineer and a NLP enthusiast
