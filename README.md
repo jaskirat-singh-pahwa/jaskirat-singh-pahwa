@@ -1,4 +1,4 @@
-### Hi there 👋, I am Jaskirat Singh
+![Header](./GitHub_headline.png)
 
 ## About me
 - I am a passionate AWS Data Analytics Engineer and a NLP enthusiast
