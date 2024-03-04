@@ -1,4 +1,12 @@
-![Header](./)
+![Header](./github_profile.png)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaskirat-singh-pahwa/)
+[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:jaskirat0810@gmail.com)
+[<img src = "https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/profile/jaskirat.singh.pahwa#!/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jaskiratsinghpahwa/)
+
+<img align="right" alt="GIF" src="giphy.gif" width="350"/>
 
 ## About me
 - I am a passionate AWS Data Analytics Engineer and a NLP enthusiast
