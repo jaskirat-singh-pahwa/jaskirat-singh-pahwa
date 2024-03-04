@@ -1,4 +1,5 @@
-![Header](./GitHub_headline.png)
+![Header](./GitHub_background.png)
+<img src="./GitHub_background.png" alt="Image" width="600">
 
 ## About me
 - I am a passionate AWS Data Analytics Engineer and a NLP enthusiast
