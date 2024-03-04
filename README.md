@@ -1,4 +1,4 @@
-![Header](./github_profile.png)
+![Header](./github_background.png)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaskirat-singh-pahwa/)
