@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="giphy.gif" width="300"/>
 
 ## About me
-- I am currently pursuing an M.S. in Data Science from University at Buffalo--SUNY
+- I am currently pursuing an M.S. in Data Science at University at Buffalo--SUNY
 - I have 4.5 years of experience in the software industry, specializing in Big Data
 - I am constantly motivated by the potential to create value from data
 - In my free time, I love to play Badminton, Cricket, and Football
