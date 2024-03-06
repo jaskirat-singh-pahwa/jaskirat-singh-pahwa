@@ -12,7 +12,7 @@
 - I am currently pursuing an M.S. in Data Science degree from University at Buffalo--SUNY
 - I have 4.5 years of experience in the software industry, specializing in big data solutions
 - I am constantly motivated by the potential to create value from data
-- In my free time, I love to play different sports like Badminton, Cricket, and Football
+- In my free time, I love to play Badminton, Cricket, and Football
 
 ## Skills
 - **Programming Languages and Databases:**  Python, MySQL, PostgreSQL, MongoDB, Scala, R, Bash 
