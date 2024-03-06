@@ -6,11 +6,11 @@
 [<img src = "https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/profile/jaskirat.singh.pahwa#!/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jaskiratsinghpahwa/)
 
-<img align="right" alt="GIF" src="giphy.gif" width="337"/>
+<img align="right" alt="GIF" src="giphy.gif" width="300"/>
 
 ## About me
-- I am currently pursuing an M.S. in Data Science degree from University at Buffalo--SUNY
-- I have 4.5 years of experience in the software industry, specializing in big data solutions
+- I am currently pursuing an M.S. in Data Science from the University at Buffalo--SUNY
+- I have 4.5 years of experience in the software industry, specializing in Big Data
 - I am constantly motivated by the potential to create value from data
 - In my free time, I love to play Badminton, Cricket, and Football
 
