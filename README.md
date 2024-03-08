@@ -6,7 +6,7 @@
 [<img src = "https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/profile/jaskirat.singh.pahwa#!/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jaskiratsinghpahwa/)
 
-<img align="right" alt="GIF" src="giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="giphy.gif" width="270" height="240"/>
 
 ## About me
 - I am currently pursuing an M.S. in Data Science at University at Buffalo--SUNY
